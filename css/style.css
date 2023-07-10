@@ -61,7 +61,7 @@
 /* main part starts */
 .main_layer {
     width: 1600px;
-    height: 3223px;
+    /* height: 3223px; */
 }
 
 /* section part-01 starts  */
@@ -174,6 +174,65 @@
     padding: 20px 20px 20px 20px;
     width: 160px;
     height: 64px;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+/* section part-03 end */
+
+/* end of main part */
+
+/* start footer part */
+.footer_contain {
+    background-color: black;
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    color: white;
+    padding: 150px;
+}
+
+.footer_descrip h1 {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.footer_descrip p {
+
+    width: 485px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 340px;
+    margin-bottom: 21px;
+}
+
+
+.footer_contact h3 {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+.footer_contact input {
+    padding: 21px 40px 21px 10px;
+    border-radius: 10px;
+    width: 325px;
+    height: 64px;
+    margin-bottom: 16px;
+}
+
+.footer_contact button {
+    padding: 20px 30px;
+    width: 170.106px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
     color: #F15B22;
     font-size: 20px;
     font-weight: 600;
