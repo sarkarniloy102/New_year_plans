@@ -1,7 +1,10 @@
+/* share styles  */
 * {
     margin: 0;
     padding: 0;
 }
+
+/* heading part starts */
 
 .headpart {
     height: 810px;
@@ -37,13 +40,6 @@
     /* border: 1px solid aliceblue; */
 }
 
-/* .banner_description {
-    text-align: right;
-    border: 1px solid aliceblue;
-
-} */
-
-
 .buton {
     text-align: right;
     margin-top: 32px;
@@ -60,3 +56,57 @@
     font-weight: 600;
     cursor: pointer;
 }
+
+/* heading part end */
+/* main part starts */
+.main_layer {
+    width: 1600px;
+    height: 3223px;
+}
+
+/* section part-01 starts  */
+
+.sec_pic {
+    height: 600px;
+}
+
+.section1_container {
+    display: flex;
+    align-items: center;
+    width: 1000px;
+    margin: 100px 300px 100px 250px;
+    /* border: 1px solid rgb(23, 61, 94); */
+    gap: 50px;
+
+}
+
+.section1_para {
+    width: 288px;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 24px;
+    margin-top: 100px;
+}
+
+.sec1_parades {
+    width: 390px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+.section1_descrip ul {
+    width: 300px;
+    /* border: 1px solid rgb(23, 61, 94); */
+    /* padding: 10px; */
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.section1_descrip ul li {
+    margin-left: 15px;
+    margin-bottom: 8px;
+}
+
+/* section part-01 end */
