@@ -110,3 +110,41 @@
 }
 
 /* section part-01 end */
+/* section part-02 starts */
+
+#myplan {
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 660px;
+}
+
+.section2_container {
+    width: 60%;
+    /* border: 1px solid rgb(34, 75, 110); */
+    margin: 50px 250px 100px 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.slide_contain1 {
+    text-align: center;
+    /* border: 1px solid rgb(23, 61, 94); */
+}
+
+.web_icon {
+    width: 92.958px;
+    height: 92.958px;
+    margin-bottom: 18.3px;
+}
+
+.webtitle {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.webdes {
+
+    font-size: 25px;
+    font-weight: 500;
+}
