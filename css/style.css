@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headpart {
+    height: 810px;
+    width: 1601px;
+    background-image: url(../banner/banner2.png);
+    background-size: cover;
+
+}
+
+.banner_container {
+    width: 527px;
+    padding: 232px 230px 350px 846px;
+
+}
+
+.banner_head {
+    width: 525px;
+    height: 228px;
+    font-size: 65px;
+    text-align: right;
+    margin-bottom: 24px;
+    /* border: 1px solid aliceblue; */
+}
+
+.banner_para {
+    width: 494px;
+    height: 78px;
+    font-size: 16px;
+    text-align: right;
+    margin-left: 30px;
+    line-height: 26px;
+    font-weight: 400;
+    /* border: 1px solid aliceblue; */
+}
+
+/* .banner_description {
+    text-align: right;
+    border: 1px solid aliceblue;
+
+} */
+
+
+.buton {
+    text-align: right;
+    margin-top: 32px;
+}
+
+#btn {
+    padding: 20px 25px;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
