@@ -148,3 +148,34 @@
     font-size: 25px;
     font-weight: 500;
 }
+
+/* section part-02 end */
+
+/* section part-03 starts */
+.section3_container {
+    display: block;
+    max-width: 58%;
+    padding: 59px 0px 50px 50px;
+    background-image: url('/watch.png');
+    background-size: cover;
+}
+
+.secdesc {
+    /* border: 1px solid rgb(23, 61, 94); */
+    width: 459px;
+
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 15px;
+
+}
+
+#btn2 {
+    padding: 20px 20px 20px 20px;
+    width: 160px;
+    height: 64px;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+
+}
