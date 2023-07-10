@@ -157,13 +157,14 @@
     max-width: 58%;
     padding: 59px 0px 50px 50px;
     background-image: url('/watch.png');
+
     background-size: cover;
 }
+
 
 .secdesc {
     /* border: 1px solid rgb(23, 61, 94); */
     width: 459px;
-
     font-size: 40px;
     font-weight: 700;
     margin-bottom: 15px;
@@ -236,5 +237,6 @@
     color: #F15B22;
     font-size: 20px;
     font-weight: 600;
+    cursor: pointer;
 
 }
